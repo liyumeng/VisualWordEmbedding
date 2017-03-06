@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="NewsSpectrum.Views.CircleControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="80" d:DesignWidth="80">
+    <Grid>
+        <Rectangle RadiusX="80" RadiusY="80" Width="80" Height="80" Stretch="Fill" Fill="DodgerBlue" Name="rectangle"/>
+        <TextBox Text="Text" Foreground="White" FontSize="14" Height="70" Width="70" TextAlignment="Center" 
+                 Background="Transparent" VerticalContentAlignment="Center" IsReadOnly="True" Name="textBox" BorderThickness="0" TextWrapping="Wrap" HorizontalContentAlignment="Center"/>
+    </Grid>
+</UserControl>
