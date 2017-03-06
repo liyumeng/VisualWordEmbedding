@@ -1,9 +1,9 @@
-﻿<Window x:Class="NewsSpectrum.MainWindow"
+﻿<Window x:Class="WordGraph.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
-        xmlns:views="clr-namespace:NewsSpectrum.Views"
-        xmlns:utils="clr-namespace:NewsSpectrum.Utils"
+        xmlns:views="clr-namespace:WordGraph.Views"
+        xmlns:utils="clr-namespace:WordGraph.Utils"
         Title="Word Embedding" Height="641.328" Width="978" ResizeMode="NoResize" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterOwner">
     <Window.Resources>
         <Style TargetType="TextBlock" x:Key="statusStyle">

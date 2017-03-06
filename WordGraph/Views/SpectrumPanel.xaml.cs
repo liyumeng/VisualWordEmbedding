@@ -14,9 +14,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using NewsSpectrum.Models;
+using WordGraph.Models;
 
-namespace NewsSpectrum.Views
+namespace WordGraph.Views
 {
     /// <summary>
     /// Interaction logic for SpectrumPanel.xaml

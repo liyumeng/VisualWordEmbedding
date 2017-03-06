@@ -4,9 +4,9 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
-using NewsSpectrum.Utils;
+using WordGraph.Utils;
 
-namespace NewsSpectrum.Models
+namespace WordGraph.Models
 {
     public class ResultCollection : NotificationObject
     {

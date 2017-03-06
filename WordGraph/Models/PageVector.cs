@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NewsSpectrum.Models
+namespace WordGraph.Models
 {
     public class PageVector
     {

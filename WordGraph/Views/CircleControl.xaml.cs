@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace NewsSpectrum.Views
+namespace WordGraph.Views
 {
     /// <summary>
     /// Interaction logic for CircleControl.xaml

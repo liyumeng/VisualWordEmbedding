@@ -4,9 +4,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NewsSpectrum.Utils;
+using WordGraph.Utils;
 
-namespace NewsSpectrum.Models
+namespace WordGraph.Models
 {
     public class NewsModel : NotificationObject
     {

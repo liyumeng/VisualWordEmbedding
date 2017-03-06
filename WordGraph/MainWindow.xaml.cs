@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using NewsSpectrum.ViewModels;
+using WordGraph.ViewModels;
 
-namespace NewsSpectrum
+namespace WordGraph
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

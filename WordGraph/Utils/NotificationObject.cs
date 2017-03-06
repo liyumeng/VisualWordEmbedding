@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NewsSpectrum.Utils
+namespace WordGraph.Utils
 {
     public abstract class NotificationObject : INotifyPropertyChanged
     {

@@ -7,12 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
-using NewsSpectrum.Models;
-using NewsSpectrum.Utils;
+using WordGraph.Models;
+using WordGraph.Utils;
 using System.IO;
 using System.Threading;
 
-namespace NewsSpectrum.ViewModels
+namespace WordGraph.ViewModels
 {
     public class SearchNewsViewModel : NotificationObject
     {
