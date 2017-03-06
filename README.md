@@ -3,7 +3,7 @@
 
 ## 下载与执行
 1. 下载编译好的可执行文件 [点击下载](resources/VisualWordEmbedding.zip)
-2. 下载预训练好的词向量文件 
+2. 下载预训练好的词向量文件 [点击下载](http://pan.baidu.com/s/1nvqHZzr)
 3. 将词向量文件重命名为wordemb.vec放在与WordGraph.exe文件同级目录中
 
 ## 操作演示
